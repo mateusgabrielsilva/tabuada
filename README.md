@@ -5,6 +5,4 @@ Aplicação web desenvolvida para ajudar minha enteada com a tabuada
 
 Tecnologias usadas 
 
-HTML 5 
-CSS 
-JavaScript
+HTML 5 - CSS - JavaScript
