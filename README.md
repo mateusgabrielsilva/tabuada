@@ -1,4 +1,4 @@
-# tabuada-
+# Tabuada
 Criado app para gerar tabuada
 
 Aplicação web desenvolvida para ajudar minha enteada com a tabuada 
